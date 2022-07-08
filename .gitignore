@@ -1,4 +1,4 @@
 .vscode
 env
-src/__pycache__
-test/__pycache__
+app/src/__pycache__/
+app/test/__pycache__/
