@@ -1,8 +1,8 @@
 import unittest
 from typing import List
-from src.minimax import find_best_move
-from app.src.tictactoe import TTTPiece, TTTBoard
-from src.board import Move
+from app.src.minimax import find_best_move
+from app.src.tictactoe.tictactoe import TTTPiece, TTTBoard
+from app.src.board import Move
 
 
 class TTTMinimaxTestCase(unittest.TestCase):
