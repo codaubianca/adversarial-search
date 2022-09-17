@@ -1,5 +1,5 @@
 from __future__ import annotations
-from board import Piece, Board, Move
+from app.src.board import Piece, Board, Move
 
 # Find the best possible outcome for original player
 def minimax(board: Board, maximizing: bool, original_player: Piece, max_depth: int = 8) -> float:
