@@ -1,4 +1,4 @@
-[In working]
+[Work in Progress]
 
 # Adversarial-search-based AI player :game_die: :game_die:
 
